@@ -15,13 +15,15 @@ Codebase requires `jsdom` as its primary dependency.
 
 <a href="https://github.com/tmpvar/jsdom.git">jsdom github repo</a>
 
-Edit `scraper.js` for site/element(s) to scrape
+-
 
 ```
   npm install jsdom
 ```
 
 ## REPL action
+Edit `scraper.js` for site/element(s) to scrape.
+
 Run the file called scraper.js
 
 ```javascript
