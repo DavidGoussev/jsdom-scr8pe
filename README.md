@@ -10,6 +10,9 @@ In an effort to dynamically extract data from websites without an accessible API
 ## Instructions
 
 Codebase requires `jsdom` as its primary dependency.
+
+-
+
 <a href="https://github.com/tmpvar/jsdom.git">jsdom github repo</a>
 
 Edit `scraper.js` for site/element(s) to scrape
