@@ -1,0 +1,32 @@
+{
+  "name": "jsdom-scr8pe",
+  "version": "0.0.1",
+  "description": "A simple REPL website scraper utilizing jsdom (JS implementation of DOM/HTML standards)",
+  "keywords": [
+    "dom",
+    "html",
+    "scrape",
+    "scraper",
+    "whatwg",
+    "jsdom",
+    "REPL",
+    "pitchfork"
+  ],
+  "maintainers": [
+    {
+      "name": "dpg5000",
+      "email": "dgoussev@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmpvar/jsdom.git"
+  },
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "jsdom": "*"
+  }
+}
